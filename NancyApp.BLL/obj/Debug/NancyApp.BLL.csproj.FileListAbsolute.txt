@@ -1,0 +1,16 @@
+C:\Users\Kirill\source\repos\NancyApp\NancyApp.BLL\bin\Debug\NancyApp.BLL.dll
+C:\Users\Kirill\source\repos\NancyApp\NancyApp.BLL\bin\Debug\NancyApp.BLL.pdb
+C:\Users\Kirill\source\repos\NancyApp\NancyApp.BLL\bin\Debug\NancyApp.Common.dll
+C:\Users\Kirill\source\repos\NancyApp\NancyApp.BLL\bin\Debug\NancyApp.DAL.dll
+C:\Users\Kirill\source\repos\NancyApp\NancyApp.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Kirill\source\repos\NancyApp\NancyApp.BLL\bin\Debug\NancyApp.Common.pdb
+C:\Users\Kirill\source\repos\NancyApp\NancyApp.BLL\bin\Debug\NancyApp.DAL.pdb
+C:\Users\Kirill\source\repos\NancyApp\NancyApp.BLL\bin\Debug\NancyApp.DAL.dll.config
+C:\Users\Kirill\source\repos\NancyApp\NancyApp.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Kirill\source\repos\NancyApp\NancyApp.BLL\obj\Debug\NancyApp.BLL.csprojAssemblyReference.cache
+C:\Users\Kirill\source\repos\NancyApp\NancyApp.BLL\obj\Debug\NancyApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\source\repos\NancyApp\NancyApp.BLL\obj\Debug\NancyApp.BLL.csproj.CopyComplete
+C:\Users\Kirill\source\repos\NancyApp\NancyApp.BLL\obj\Debug\NancyApp.BLL.dll
+C:\Users\Kirill\source\repos\NancyApp\NancyApp.BLL\obj\Debug\NancyApp.BLL.pdb
+C:\Users\Kirill\source\repos\NancyApp\NancyApp.BLL\bin\Debug\Nancy.dll
+C:\Users\Kirill\source\repos\NancyApp\NancyApp.BLL\bin\Debug\Nancy.xml
